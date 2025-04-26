@@ -13,14 +13,14 @@ This project covers three branches scattered across three regions of operations.
 ![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/8b28c48adccee4dc604aee56ccefd241b29420b3/Sales%20Analysis%20Pg%203.jpg)
 
 ## Data Preparation & Modelling
-The dataset has eighteen (18) columns and one thousand (1,000) rows. Since this is an Excel project, the raw data was cleaned, transformed and analysed using Microsoft Excel. Calculations, formulars, pivot tables, pivot charts, conditional formattingbwere used in getting the final dashboard. Analysis includes;
+The dataset has eighteen (18) columns and one thousand (1,000) rows. Since this is an Excel project, the raw data was cleaned, transformed and analysed using Microsoft Excel. Calculations, formulars, pivot tables, pivot charts, conditional formatting were used in getting the final dashboard. Analysis includes;
 * Time with the most profit
 * Total order by branch vs profit made
 * Business value by gender
 * Unit sold per month
 * Quantity sold vs gross profit made
 * Customer semantic analysis
-* Unit sold per product
+* Units sold per product
 * Monthly revenue, e.t.c
   
 ![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/4383dcd4f3e578fc5038308e25e01809c3ecbf3a/Raw%20Table.png)
