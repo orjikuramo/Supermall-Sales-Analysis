@@ -1,5 +1,5 @@
 # Supermall-Sales-Analysis
-![Alt text]("C:\Users\okora\Desktop\TDI\EXCEL\Week 7\Store Analysis\Analysis Presentation Images\Sales Analysis Pg 1.jpg")
+![Alt text](Sales Analysis Pg 1.jpg)
 ## Introduction
 Welcome to my **Sales Analysis Project**. 
 This project covers three branches scattered across three regions of operations. It is a prescriptive and diagnostic analysis in which Microsoft Excel was used in cleaning and analysing, while Microsoft Powerpoint was used for its presentation.
