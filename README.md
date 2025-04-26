@@ -23,7 +23,7 @@ The dataset has eighteen (18) columns and one thousand (1,000) rows. Since this 
 * Monthly revenue, e.t.c
 ![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/8b28c48adccee4dc604aee56ccefd241b29420b3/Raw%20Table.png)
 ![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/8b28c48adccee4dc604aee56ccefd241b29420b3/Pivot%20Table.png)
-![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/8b28c48adccee4dc604aee56ccefd241b29420b3/Cummulative%20analysis.png)
+![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/23d5abf579e7be5e0767a3e91929ff102c4a2431/Cummulative%20Analysis.png)
 
 ## Analysis findings
 The following were findings gathered from the analysis of the dataset which we propose should help the business make concrete decision for better profit across the three regions.
