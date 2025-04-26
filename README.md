@@ -1,5 +1,5 @@
 # Supermall-Sales-Analysis
-![Alt text](Sales Analysis Pg 1.jpg)
+![Image Alt](https://github.com/orjikuramo/Supermall-Sales-Analysis/blob/8f7490da84a3364d5336800eaee6c13cdfb065d2/Sales%20Analysis%20Pg%201.jpg)
 ## Introduction
 Welcome to my **Sales Analysis Project**. 
 This project covers three branches scattered across three regions of operations. It is a prescriptive and diagnostic analysis in which Microsoft Excel was used in cleaning and analysing, while Microsoft Powerpoint was used for its presentation.
@@ -29,4 +29,5 @@ The following were findings gathered from the analysis of the dataset which we p
 ![Alt text]("C:\Users\okora\Desktop\TDI\EXCEL\Week 7\Store Analysis\Dashboard.png")
 ## Conclusion
 With the above analysis findings and adgerence to recommendations, the business will be better positioned in areas such as customer segmentation, marketing, promotions, product development, and staff upscaling and profit.
+
 ** PS: Kindly see the uploaded PDF for the entire analysis documentation, you can also download the excel file to interact with the dashboard.**
